@@ -1,2 +1,2 @@
 # OS
-some note
+some note about OS learning
